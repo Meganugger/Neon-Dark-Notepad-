@@ -4,7 +4,7 @@
 
 A port of the Neon Dark theme from the Eclipse IDE for Notepad++.
 
-![Neon Dark Screenshot](link-to-your-screenshot.png)
+![Neon Dark Screenshot](showcase.png)
 
 ### Features
 
