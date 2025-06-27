@@ -1,6 +1,6 @@
 # Neon Dark for Notepad++
 
-[![GitHub license](https://img.shields.io/github/license/YourUsername/Neon-Dark-Notepad-?style=for-the-badge)](LICENSE)
+[![GitHub license](https://img.shields.io/github/license/Meganugger/Neon-Dark-Notepad-?style=for-the-badge)](LICENSE)
 
 A port of the Neon Dark theme from the Eclipse IDE for Notepad++.
 
